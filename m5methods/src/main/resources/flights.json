@@ -1,0 +1,12 @@
+[
+  {
+    "from":"New York",
+    "to":"London",
+    "date":"2022-07-07"
+  },
+  {
+    "from":"Tokyo",
+    "to":"Singapore",
+    "date":"2022-07-10"
+  }
+]
